@@ -44,5 +44,5 @@ If you have any questions, please contact me to the information listed below.
 * Link to the GitHub Repository:
 [Online-Offline Budget Tracker](https://github.com/EvelynGMaldonado/Online_Offline-BudgetTrackers)
 
-* Url to the deployeed application:
-[Online-Offline Budget Tracker]()
+* Url to the deployed application:
+[Online-Offline Budget Tracker](https://on-offlinebudget-tracker-egm.herokuapp.com/)
